@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "angular-guide": {
+      "description": "Master Angular",
+      "title": "Angular Guide",
+      "url": "angular2-guide"
+    },
+    "ionic3-from-scratch": {
+      "description": "Create Cross Platform",
+      "title": "Ionic 3 form Scratch",
+      "url": "Ionic 3"
+    },
+    "vuejs2-guide": {
+      "description": "Vue JS",
+      "title": "Vue.js 2",
+      "url": "vuejs2-guide"
+    }
+  }
+}
